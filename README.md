@@ -8,13 +8,13 @@ More info (french) : http://bastienfaure.fr/steganographie-en-java-cacher-une-im
 
 ### Hide secret image inside cover image
 
-Open cover image : `File -> Open Image Source`
-Open secret image : `File -> Open Image to Hide`
-Hide secret image : `File -> Hide Image`
-Save resulting stegano image : `File -> Save Result`
+Open cover image : `File -> Open Image Source`  
+Open secret image : `File -> Open Image to Hide`  
+Hide secret image : `File -> Hide Image`  
+Save resulting stegano image : `File -> Save Result`  
 
 ### Reveal secret image
 
-Open stegano image : `File -> Open Image Source`
-Reveal hidden image : `File -> Reveal Image`
-Save hidden image : `File -> Save Result`
+Open stegano image : `File -> Open Image Source`  
+Reveal hidden image : `File -> Reveal Image`  
+Save hidden image : `File -> Save Result`  
